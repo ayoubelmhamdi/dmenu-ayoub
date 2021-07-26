@@ -3,3 +3,7 @@ dwm
 dwm.o
 util.o
 *.orig
+dmenu
+dmenu.o
+stest
+stest.o
